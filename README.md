@@ -3,8 +3,7 @@
 
 **I'm computer science graduated from PNU.👩🏻‍💻** 
 
-I'm interested in mobile application development 📲 and artificial intelligence. 
+I'm interested in mobile application development ![Alt Text](:iphone:) and artificial intelligence. 
 
-I'm currently learning kotlin.🌸
-
+I'm currently learning kotlin.![Alt Text](:sparkles:)
 
