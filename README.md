@@ -5,5 +5,5 @@
 
 I'm interested in mobile application development :iphone: and artificial intelligence. 
 
-I'm currently learning kotlin.:sparkles:
+Java, kotlin.:sparkles:
 
